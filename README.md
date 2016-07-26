@@ -1,2 +1,3 @@
 # GitDesktopTutoriral
-it is tutorial for git desktop cloning
+it is tutorial for git desktop 
+samplechanges...
